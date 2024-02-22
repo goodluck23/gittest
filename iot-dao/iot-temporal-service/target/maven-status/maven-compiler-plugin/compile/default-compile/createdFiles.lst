@@ -1,0 +1,6 @@
+cc\iotkit\temporal\ITaskLogData.class
+cc\iotkit\temporal\IDbStructureData.class
+cc\iotkit\temporal\IDevicePropertyData.class
+cc\iotkit\temporal\IRuleLogData.class
+cc\iotkit\temporal\IThingModelMessageData.class
+cc\iotkit\temporal\IVirtualDeviceLogData.class

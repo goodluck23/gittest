@@ -1,0 +1,16 @@
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\service\VirtualDeviceLogDataImpl.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\service\ThingModelMessageDataImpl.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\config\ElasticsearchConfiguration.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\document\DocTaskLog.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\dao\TaskLogRepository.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\service\RuleLogDataImpl.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\dao\VirtualDeviceLogRepository.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\document\DocRuleLog.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\service\DbStructureDataImpl.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\service\TaskLogDataImpl.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\document\DocVirtualDeviceLog.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\document\DocThingModelMessage.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\dao\RuleLogRepository.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\dao\ThingModelMessageRepository.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\service\DevicePropertyDataImpl.java
+F:\clone\iita_V0.5.0\iotkit-parent\iot-dao\iot-temporal-serviceImpl-es\src\main\java\cc\iotkit\temporal\es\document\DocDeviceProperty.java
