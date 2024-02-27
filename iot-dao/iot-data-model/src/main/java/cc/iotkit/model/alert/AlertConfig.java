@@ -27,7 +27,7 @@ public class AlertConfig implements Owned<Long> {
     private Long id;
 
     /**
-     * 配置所属用户+++++++-------000000000
+     * 配置所属用户+++++++-------999999
      */
 
     private String uid;
